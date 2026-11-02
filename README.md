@@ -1,3 +1,25 @@
+To report or recover a stolen Quora account created or compromised in 2022, follow these direct platform actions:
+Step 1: Request an Immediate Password Reset
+ * Go to the Quora Password Reset Page.
+ * Enter the email address associated with the stolen account.
+ * Check your email inbox (and spam/junk folders) for a reset link to regain access.
+Step 2: Contact Quora Support
+If the unauthorized user changed your account's email address or password, you cannot use the standard reset tool. You must submit a direct support request:
+ * Open the Quora Help Center Contact Form.
+ * Select "I need help with my account" or "Security or Privacy Inquiry."
+ * Select "My account was hacked or compromised."
+ * Provide the following key details in your description:
+   * Profile URL: [https://www.quora.com/profile/Shahab-Akhavan-5](https://www.quora.com/profile/Shahab-Akhavan-5)
+   * Account Creation / Active Period: State that the account has been active since September 2022.
+   * Original Registration Email: The primary email address used to set up the profile in 2022.
+   * Associated Spaces / Activity: Note that this profile manages/administers Spaces like GPoint Market, GPoint Wallet, or Professional Marketing Guy.
+   * Device & Location Details: Include the location (e.g., Los Angeles, CA) and primary devices/browsers historically used to log into the account.
+Step 3: Secure Your Email & Linked Social Accounts
+If the unauthorized access occurred via a compromised email or linked third-party account (such as Google, Facebook, or Apple logins):
+ * Log into your email provider immediately and select "Sign out of all other sessions/devices."
+ * Change your primary email password and enable Two-Factor Authentication (2FA).
+ * Check your email account's active forwarding rules or filters to ensure messages from @quora.com are not being hidden or redirected by an intruder.
+
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "GlobalPipelineBlueprint",
